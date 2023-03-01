@@ -39,3 +39,42 @@ input {
     padding-bottom: 40px;  
     
 }
+.no{
+    background-color:  #b8d1ed;
+    color: #0c1832;
+    margin-right: 8px;
+    width: 18%;
+    text-align: center;
+    border-radius: 10px;
+    font-size: 25px;
+    padding: 10px;
+    margin-bottom: 10px;
+    font-weight: bold;
+
+}
+.sign{
+    color: #144194;
+    background-color: #9ccbfe;
+    width: 18%;
+    text-align: center;
+    border-radius: 10px;
+    font-size: 25px;
+    padding: 10px;
+    margin-right: 8px;
+    margin-bottom: 10px;
+    font-weight: bold;
+}
+.signe{
+    color: #144194;
+    background-color: #9ccbfe;
+    width: 18%;
+    text-align: center;
+    border-radius: 10px;
+    font-size: 25px;
+    padding: 10px;
+    padding-right: 95px;
+    padding-left: 35px;
+    margin-right: 8px;
+    margin-bottom: 10px;
+    font-weight: bold;
+}
