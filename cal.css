@@ -1,0 +1,41 @@
+.dabba{
+    display: flex;
+
+    flex-direction: column;
+    justify-content: center;
+    
+    border-radius: 20px;
+    padding: 50px;
+}
+h1{
+    text-align: center;
+    color: #144194;
+}
+.main{
+    padding: 40px;
+    width: 320px;
+    height: auto;
+    background-color: rgb(228, 247, 255);
+    border-radius: 20px;
+    align-self: center;
+    padding-top: 15px;
+    border: 2px solid black;
+}
+.Ldabba{
+    display: flex;
+    flex-wrap: nowrap;
+    
+}
+input {
+    background-color: #b8d1ed; 
+    width: 98%;
+    columns: #0c1832;
+    text-align: end;
+    border-radius: 10px;
+    font-size: 35px;
+    margin-bottom: 10px;
+   
+    padding-top: 40px;   
+    padding-bottom: 40px;  
+    
+}
