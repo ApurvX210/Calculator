@@ -9,3 +9,12 @@ function sol() {
     let y = eval(x)
     document.getElementById("text").value=y
 }
+function del() {
+    let display = document.getElementById("text");
+    let currentValue = display.value;
+    if (currentValue.length === 1) {
+        display.value = "0";
+    } else {
+        display.value = currentValue.slice(0, -1);
+    }
+}
